@@ -7,9 +7,7 @@
 notWhitelistedMessage = "Il vous suffit de rejoindre le discord pour vous connecter sur Last V (https://discord.gg/gyfznV4ZpP)" -- Message displayed when they are not whitelist with the role
 
 whitelistRoles = { -- Role nickname(s) needed to pass the whitelist
-    "797593645741637654",
-    --"DISCORD_ROLE_ID",
-    --"DISCORD_ROLE_ID",
+    "ID DE VOTRE ROLE",
 }
 
 --- Code ---
