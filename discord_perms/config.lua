@@ -1,6 +1,6 @@
 Config = {
-	DiscordToken = "Nzk3ODQ2NjI5OTg1OTQzNTcy.X_sakw.-2_RL6bHm1siqPbPvAUxfLB4oT8",
-	GuildId = "797327544046977024",
+	DiscordToken = "TOKEN DE TON BOT",
+	GuildId = "ID DE TON BOT",
 
 	-- Format: ["Role Nickname"] = "Role ID" You can get role id by doing \@RoleName
 	Roles = {
