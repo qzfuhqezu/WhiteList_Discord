@@ -1,8 +1,4 @@
-----------------------------------------
---- Discord Whitelist, Made by FAXES ---
-----------------------------------------
 
--- Documentation: https://docs.faxes.zone/docs/discord-whitelist-setup
 --- Config ---
 notWhitelistedMessage = "Il vous suffit de rejoindre le discord pour vous connecter sur Last V (https://discord.gg/gyfznV4ZpP)" -- Message displayed when they are not whitelist with the role
 
