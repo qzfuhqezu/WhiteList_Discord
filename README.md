@@ -4,3 +4,6 @@ Une fois tous cela fais, il ne reste plus que à start cela dans votre cfg
 > startDiscordWhitelist
 > Pour + de questions ou demande d'aide, DM ME
 
+
+ENJOY ⭐️
+
